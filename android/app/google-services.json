@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "329783812742",
+    "firebase_url": "https://youthmeet-2f58f.firebaseio.com",
+    "project_id": "youthmeet-2f58f",
+    "storage_bucket": "youthmeet-2f58f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329783812742:android:3cf74b82af5d6238c8e707",
+        "android_client_info": {
+          "package_name": "com.fagorn.youthmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329783812742-0fm5sk7m5ke1jj2alq3l2f9qings1gs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2XD4E8HOemhJWcV6QGV2dgonB5mWjz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329783812742-0fm5sk7m5ke1jj2alq3l2f9qings1gs0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329783812742-rp5mabr0sb9oco7ctap5k68gu3ioc6rt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fagorn.youthmeet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
